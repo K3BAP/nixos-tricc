@@ -11,6 +11,8 @@
       server=/algo.uni-trier.de/8.8.8.8
       server=/cppreference.com/8.8.8.8
       server=/jetbrains.com/8.8.8.8
+
+      server=/cache.nixos.org/8.8.8.8
     '';
   };
 
