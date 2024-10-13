@@ -5,6 +5,5 @@
     [ 
       ./tricc-applications.nix
       ./tricc-firewall.nix
-      ./tricc-user.nix
     ];
 }
