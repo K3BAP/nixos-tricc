@@ -26,7 +26,7 @@ Please read the complete guide once before proceeding!
     ];
   };
 ```
-4. Rebuild NixOS using `nixos-rebuild switch` and remove old builds by running `nix-collect-garbage -d`. Now the user has no way of getting sudo privileges on the machine.
+4. Rebuild NixOS using `nixos-rebuild switch` and remove old builds by running `nix-collect-garbage -d`. Reboot. Now the user has no way of getting sudo privileges on the machine.
 
 ## Step 3: Update system packages
 At all times, the system packages can be upgraded by using `nixos-rebuild switch --upgrade` as root. To also remove the old NixOS builds from the system, saving disk space, run `nix-collect-garbage -d` as root. 
