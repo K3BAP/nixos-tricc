@@ -5,6 +5,7 @@
     pkgs.git
     vim
     pkgs.libgccjit
+    pkgs.python3
     pkgs.jdk
     pkgs.vscode
     pkgs.jetbrains.idea-community
