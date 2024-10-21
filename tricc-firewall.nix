@@ -9,6 +9,7 @@
 
       server=/salesch.uni-trier.de/8.8.8.8
       server=/algo.uni-trier.de/8.8.8.8
+      server=/www.uni-trier.de/8.8.8.8
       server=/cppreference.com/8.8.8.8
       server=/jetbrains.com/8.8.8.8
 
