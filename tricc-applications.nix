@@ -4,7 +4,7 @@
   environment.systemPackages = with pkgs; [
     pkgs.git
     vim
-    pkgs.libgccjit
+    pkgs.gcc
     pkgs.python3
     pkgs.jdk
     pkgs.vscode
